@@ -1,2 +1,2 @@
 # Complete-Web-Developer-ZTM
-Posting all my projects for the complete WebDeveloper course zero to mastery
+Posting my first project from the Complete Web Developer ZTM course
